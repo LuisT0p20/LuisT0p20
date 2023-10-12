@@ -47,6 +47,7 @@ I-am-LuisT0p20@github
     <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"></a>
     <a href="#"><img alt="Django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"></a>
     <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Flutter-0175c2?style=for-the-badge&logo=flutter&logoColor=white"></a>
+    <a href="#"><img alt="Tailwind" src="https://img.shields.io/badge/Tailwind%20CSS-0175c2?style=for-the-badge&logo=tailwindcss&logoColor=white"></a>
 </p>
 
 ### 🗄️ Databases and Cloud Hosting
